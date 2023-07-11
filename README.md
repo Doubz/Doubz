@@ -19,5 +19,5 @@
 
 ### 🤝🏻 Connect
 <a href="https://mail.qq.com/">
-  <img src="https://img.shields.io/badge/747354662@qq.com-green"/>
+  <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-747354662@qq.com-green"/>
 </a>
