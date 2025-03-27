@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 
 💬 Thinking ...\
-🤔 Focus on front-end development ...\
+🤔 Focus on full-stack development ...\
 🌱 Currently living in Shenzhen.
 
 ### 🛠 Technology Stack 
