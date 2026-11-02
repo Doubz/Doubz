@@ -1,10 +1,6 @@
-## 👋 Hey guys, I'm Dubzeey 
+## 👋 
 
 ### 👨🏻‍💻 About Me
-
-💬 Thinking ...\
-🤔 Focus on full-stack development ...\
-🌱 Currently living in Shenzhen.
 
 ### 🛠 Technology Stack 
 
