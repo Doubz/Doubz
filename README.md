@@ -1,6 +1,3 @@
-## 👋 
-
-### 👨🏻‍💻 About Me
 
 ### 🛠 Technology Stack 
 
